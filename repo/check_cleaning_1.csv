@@ -1,0 +1,26 @@
+,#,Student Answer,Marks,Justification,Complexity,Ref Answer,student_answer_cleaned
+0,1,A barcode is a series of white and black bars of differing widths. It is pasted on the products in a retail store for easy information of any product.,1,1,medium,"1. A barcode is a series of light and dark bars of differing widths (1)
+2. With a code number printed underneath (1)
+3. Made up of country of origin code, manufacturer code, the product code, a check digit.",series white black bars differing widths pasted products retail store easy information product
+1,2,A barcode is represnted by a sequence of light and dark bars of different widths. Barcode is helpful in tagging the prices of products.,1,1,medium,,represnted sequence light dark bars different widths helpful tagging prices products
+2,3,A barcode is a series of light and dark bars of differing thickness.,1,1,medium,,series light dark bars differing thickness
+3,4,Barcode is a kind of code with bars with a code number printed underneath.,1,2,easy,,kind code bars number printed underneath
+4,5,Barcode is a series of bars with a code number printed at the bottom.,1,2,medium,,series bars code number printed bottom
+5,6,A barcode is a code with bars and a number printed at the bottom.,1,2,medium,,code bars number printed bottom
+6,7,"Barcode is a code made up of country of origin code, manufacturer code, the product code, a check digit.",1,3,easy,,code made up country origin manufacturer product check digit
+7,8,"A barcode is composed of country code, manufacturer code, the product code, a check digit.",1,3,medium,,composed country code manufacturer product check digit
+8,9,"A barcode is composed of manufacturer code, country of origin code, and the product code.",1,3,medium,,composed manufacturer code country origin product
+9,10,"A barcode consists of light and dark bars of different widths, with a code number printed below the bars.",1,"1, 2",medium,,consists light dark bars different widths code number printed below
+10,11,"A barcode is a series of light and dark bars of differing widths with a code number printed underneath made up of country of origin code, manufacturer code, the product code, a check digit.",2,"1, 2, 3",easy,,series light dark bars differing widths code number printed underneath made up country origin manufacturer product check digit
+11,12,A barcode is an electronic strip with black vertical line and some numbers printed below.,1,2,tough,,electronic strip black vertical line numbers printed below
+12,13,A barcode is a series of bars. It has a lot of product information stored.,0,,medium,,series bars lot product information stored
+13,14,Barcodes are useful to have product information instead of physical stickers with price and other information mentoned on it.,0,,medium,,useful product information instead physical stickers price mentoned
+14,15,"A barcode is a series of dark bars seperated by gaps, both the bars and gaps being of different widths. They can be used to identify product details such as the product, manufacturer and the coutry of origin using predefined alphanumeric codes for each.",3,"1,2,3",tough,,series dark bars seperated gaps different widths used identify product details manufacturer coutry origin using predefined alphanumeric codes
+15,16,A barcode is a sticker on products which is scanned while billing to see which product is bought and what is the price.,0,0,medium,,sticker products scanned billing see product bought price
+16,17,A barcode is used to keep track of the inventory and come in various shapes and sizes and to identify the product being sold,0,0,easy,,used keep track inventory come various shapes sizes identify product sold
+17,18,Barcodes are black and white bars with a code number beneath it to identify the products and prices.,2,"1,2",easy,,black white bars code number beneath identify products prices
+18,19,A barcode is made of dark and light bars which can be of different widths used by manufacturers for unique code numbers.,1,1,easy,,made dark light bars different widths used manufacturers unique code numbers
+19,20,"A barcode holds information such as where the product comes from, who the manufacturer is and what is the product. They are made of bars, black and white of different widths to hold the information.",2,"1,3",tough,,holds information product comes manufacturer made bars black white different widths hold
+20,21,a barcode is a sticker with dark lines and spaces placed on products in a store to identify the products.,1,1,medium,,sticker dark lines spaces placed products store identify
+21,22,a barcode is a sticker scanned at the checkout to bill the customer as it contains price information.,0,0,medium,,sticker scanned checkout bill customer contains price information
+22,23,A barcode has information about the products such as what they are and where they came from and who made them.,1,3,tough,,information products came made

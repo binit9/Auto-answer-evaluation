@@ -1,0 +1,67 @@
+Answer,Score with point 1,Score with point 2,Score with point 3,Actual Marks,Justification,Jac_1,Jac_2,Jac_3,,,,
+A barcode is a rectangular strip comprising of light and deep colors with a code number printed used for product identification and selling.,0.731825301,0.828622235,0.801551947,1,2,0.055555556,0.214285714,0.1,,0,2,0
+A barcode is a bar with product code printed. It is attached to every product at retail shops.,0.572306425,0.782638405,0.800493915,0,0,0,0.2,0.133333333,,0,2,0
+It is a machine readable numbers arranged in a sequence comprising of parallel lines of different widths on a package. This is used for electronic scanning of goods at checkout to register price.,0.662919581,0.759095689,0.764857608,1,1,0.043478261,0,0,,0,0,0
+Barcode is a unique series of parallel lines printed on a product. It is used to register check out price and stock management.,0.613658484,0.737587096,0.822459047,1,1,0.058823529,0.066666667,0.105263158,,0,0,3
+Barcode uses a phone's camera to turn itself into a barcode scanner to find the best deal.,0.513803731,0.579645416,0.712005363,0,0,0,0,0,,0,0,0
+"A barcode is a small image of lines and spaces attached to retail store items. It is used to identify products, location and manufacturer.",0.605255771,0.697358963,0.796697991,1,3,0,0,0.047619048,,0,0,0
+A barcode consists of black vertical lines that can be seen at the right corner of the back of the product. It is used for product screening.,0.715124108,0.699322272,0.762951922,0,0,0,0,0.052631579,,0,0,0
+A barcode is a code present on the back of the product which identifies the product.,0.480503164,0.756266507,0.846022892,0,0,0,0.125,0.166666667,,0,0,3
+A barcode is a way to encode information visually that a machine can read. The combination of black and white bars (elements) represents a code for product identification.,0.691248988,0.762907377,0.818629027,1,1,0.05,0.055555556,0.090909091,,0,0,3
+Barcodes are applied to products for quick identification electronically. It is a series of light and dark vertical bars representing a machine readable code number.,0.768042081,0.794080629,0.810977924,2,"1,2",0.235294118,0.117647059,0.043478261,,1,2,3
+"A barcode is a series of dark bars seperated by gaps, both the bars and gaps being of different widths. They can be used to identify product details such as the product, manufacturer and the coutry of origin using predefined alphanumeric codes for each.",0.772879593,0.738840547,0.816765038,3,"1,2,3",0.2,0,0.125,,1,0,3
+A barcode is a sticker on products which is scanned while billing to see which product is bought and what is the price.,0.431223746,0.641668972,0.779494863,0,0,0,0,0.0625,,0,0,0
+A barcode is used to keep track of the inventory and come in various shapes and sizes and to identify the product being sold,0.643058986,0.666060956,0.792669622,0,0,0,0,0.052631579,,0,0,0
+Barcodes are black and white bars with a code number beneath it to identify the products and prices.,0.704097742,0.765405101,0.804274781,2,"1,2",0.071428571,0.181818182,0.058823529,,0,0,0
+A barcode is made of dark and light bars which can be of different widths used by manufacturers for unique code numbers.,0.849583946,0.74682595,0.810301908,1,1,0.307692308,0.071428571,0.111111111,,1,0,3
+"A barcode holds information such as where the product comes from, who the manufacturer is and what is the product. They are made of bars, black and white of different widths to hold the information.",0.755065223,0.678816739,0.810942219,2,"1,3",0.125,0,0.166666667,,0,0,3
+a barcode is a sticker with dark lines and spaces placed on products in a store to identify the products.,0.700406563,0.719056562,0.748136695,1,1,0.076923077,0,0,,0,0,0
+a barcode is a sticker scanned at the checkout to bill the customer as it contains price information.,0.412121244,0.714018676,0.744792683,0,0,0,0,0,,0,0,0
+A barcode has information about the products such as what they are and where they came from and who made them.,0.466210674,0.579514813,0.794264942,1,3,0,0,0.083333333,,0,0,0
+"A barcode is a method of representing data in a visual, machine-readable form",0.526423991,0.668049996,0.687493309,1,1,0,0,0,,0,0,0
+A barcode is a square or rectangular image consisting of a series of parallel black lines and white spaces of varying widths that can be read by a scanner,0.819373575,0.690819597,0.617306556,1,,0.111111111,0,0,,1,0,0
+"Barcodes became commercially successful when they were used to automate supermarket checkout systems, a task for which they have become almost universal.",0.495122588,0.567271856,0.720557977,2,2,0,0,0,,0,0,0
+"A barcode is a machine-readable code in the form of numbers and a pattern of parallel lines of varying widths, printed on a commodity and used especially for stock control",0.718431634,0.80690034,0.779936772,1,1,0.047619048,0.111111111,0.041666667,,0,2,0
+"A barcode is a set of lines of different widths and sizes representing data, that when read help identify the scanned object",0.687379194,0.734882539,0.73310335,2,2,0.058823529,0,0,,0,0,0
+Barcodes are often used to help organize and index information or prices about an object,0.490885866,0.634967886,0.743846307,2,2,0,0,0,,0,0,0
+Barcodes used by the U.S. postal service that helps speed the delivery of mail is another perfect example of how a barcode could be used. The picture is an example of what a barcode of an address,0.506504085,0.67208636,0.783749834,3,3,0,0,0,,0,0,0
+The barcode was invented by Norman Joseph Woodland and Bernard Silver and patented in the US in 1951,0.368676579,0.359049522,0.437584032,3,3,0,0,0,,0,0,0
+"A bar code is the small image of lines bars and spaces that is affixed to retail store items, identification cards, and postal mail to identify a particular product number, person, or location.",0.614418511,0.790772996,0.823268078,2,2,0.038461538,0.086956522,0.071428571,,0,2,3
+"A barcode is an image consisting of a series of parallel black and white lines that, when scanned, relay information about a product",0.710683021,0.712583864,0.714366678,2,2,0.0625,0,0.052631579,,0,0,0
+A  barcode is a image with black and white lines which  are read by optical devices such as a barcode reader or scanner. ,0.646934204,0.656763717,0.628681389,2,2,0,0,0,,0,0,0
+"A barcode is used to automate the transfer of product information, such as its price, from the product to an electronic system such as a cash register.",0.412490269,0.623429082,0.767053527,2,2,0,0,0.055555556,,0,0,0
+A barcode allow retailers to easily track inventory.,0.476609806,0.560252995,0.687439512,3,3,0,0,0,,0,0,0
+It is a symbol printed on every product to uniquely identify it.,0.5366353,0.736498119,0.779213252,0,No match with any preferred answer,0,0.111111111,0.071428571,,0,0,0
+"A barcode uniquely identifies products with information about country of origin, manufacturer and product code. It consists of bars with spaces ",0.596436304,0.686346903,0.85968004,1,1,0.058823529,0.066666667,0.3125,,0,0,3
+"Printed in black and white bars with different widths, the barcode gives information about the product, manufacturer and the country of manufacture. This helps in identifying the individual items easily ",0.710864851,0.734935546,0.838512744,2,"1, 2",0.095238095,0.05,0.130434783,,0,0,3
+it is a printed set of black lines with a number underneath,0.689609145,0.860404626,0.704413525,1,3,0,0.428571429,0,,0,2,0
+When you scan the bar code at the check out counter the price of the product is automatically detected,0.518697467,0.72266081,0.801399445,0,No match with any preferred answer,0,0.083333333,0.2,,0,0,0
+"A barcode is printed on the cover of the package to easily detect the item. Represented as a set of dark bars, the barcode with a code number gives details of the item being purchased",0.670335568,0.848577505,0.828295296,2,"1,3",0.105263158,0.1875,0.043478261,,0,2,3
+barcodes help in quick scanning of the product. Along with the code number (printed below the barcode) a barcode is a unique identifier of the product,0.549130849,0.856383021,0.843621715,1,3,0,0.25,0.111111111,,0,2,3
+"A barcode consists of light and dark bars of different widths, with a code number printed below the bars.",0.854195886,0.840208261,0.747669223,2,"1, 2",0.333333333,0.272727273,0.055555556,,1,2,0
+"Made up of country of origin code, manufacturer code, the product code, a
+check digit.",0.525378208,0.752449005,1,1,1,0,0.083333333,1,,0,0,3
+A barcode is a rectangular strip comprising of light and deep colors with a code number printed used for product identification and selling.,0.731825301,0.828622235,0.801551947,1,2,0.055555556,0.214285714,0.1,,0,2,0
+A barcode is a bar with product code printed. It is attached to every product at retail shops.,0.572306425,0.782638405,0.800493915,0,0,0,0.2,0.133333333,,0,2,0
+It is a machine readable numbers arranged in a sequence comprising of parallel lines of different widths on a package. This is used for electronic scanning of goods at checkout to register price.,0.662919581,0.759095689,0.764857608,1,1,0.043478261,0,0,,0,0,0
+Barcode is a unique series of parallel lines printed on a product. It is used to register check out price and stock management.,0.613658484,0.737587096,0.822459047,1,1,0.058823529,0.066666667,0.105263158,,0,0,3
+Barcode uses a phone's camera to turn itself into a barcode scanner to find the best deal.,0.513803731,0.579645416,0.712005363,0,0,0,0,0,,0,0,0
+"A barcode is a small image of lines and spaces attached to retail store items. It is used to identify products, location and manufacturer.",0.605255771,0.697358963,0.796697991,1,3,0,0,0.047619048,,0,0,0
+A barcode consists of black vertical lines that can be seen at the right corner of the back of the product. It is used for product screening.,0.715124108,0.699322272,0.762951922,0,0,0,0,0.052631579,,0,0,0
+A barcode is a code present on the back of the product which identifies the product.,0.480503164,0.756266507,0.846022892,0,0,0,0.125,0.166666667,,0,0,3
+A barcode is a way to encode information visually that a machine can read. The combination of black and white bars (elements) represents a code for product identification.,0.691248988,0.762907377,0.818629027,1,1,0.05,0.055555556,0.090909091,,0,0,3
+Barcodes are applied to products for quick identification electronically. It is a series of light and dark vertical bars representing a machine readable code number.,0.768042081,0.794080629,0.810977924,2,"1,2",0.235294118,0.117647059,0.043478261,,1,2,3
+A barcode is a series of white and black bars of differing widths. It is pasted on the products in a retail store for easy information of any product.,0.763384164,0.702808592,0.786698291,1,1,0.266666667,0,0.047619048,,1,0,0
+A barcode is represnted by a sequence of light and dark bars of different widths. Barcode is helpful in tagging the prices of products.,0.852728891,0.643797626,0.708733336,1,1,0.307692308,0,0,,1,0,0
+A barcode is a series of light and dark bars of differing thickness.,0.964409317,0.526612729,0.550037017,1,1,0.714285714,0,0,,1,0,0
+Barcode is a kind of code with bars with a code number printed underneath.,0.675667353,0.928669593,0.79504624,1,2,0.090909091,0.666666667,0.071428571,,0,2,0
+Barcode is a series of bars with a code number printed at the bottom.,0.698818751,0.886736014,0.763056572,1,2,0.2,0.428571429,0.071428571,,0,2,0
+A barcode is a code with bars and a number printed at the bottom.,0.638905056,0.916590581,0.757928909,1,2,0.1,0.5,0.076923077,,0,2,0
+"Barcode is a code made up of country of origin code, manufacturer code, the product code, a check digit.",0.525378148,0.752448953,1.000000024,1,3,0,0.083333333,1,,0,0,3
+"A barcode is composed of country code, manufacturer code, the product code, a check digit.",0.494471601,0.760302718,0.955796223,1,3,0,0.1,0.6,,0,0,3
+"A barcode is composed of manufacturer code, country of origin code, and the product code.",0.500137247,0.669848083,0.905225699,1,3,0,0.111111111,0.5,,0,0,3
+"A barcode consists of light and dark bars of different widths, with a code number printed below the bars.",0.854195886,0.840208261,0.747669223,1,"1, 2",0.333333333,0.272727273,0.055555556,,1,2,0
+"A barcode is a series of light and dark bars of differing widths with a code number printed underneath made up of country of origin code, manufacturer code, the product code, a check digit.",0.815729078,0.827772137,0.902404143,2,"1, 2, 3",0.333333333,0.222222222,0.5,,1,2,3
+A barcode is an electronic strip with black vertical line and some numbers printed below.,0.679082296,0.811790214,0.728487066,1,2,0,0.090909091,0,,0,2,0
+A barcode is a series of bars. It has a lot of product information stored.,0.655965863,0.668005784,0.771233054,0,,0.2,0,0.071428571,,0,0,0
+Barcodes are useful to have product information instead of physical stickers with price and other information mentoned on it.,0.490266533,0.663984691,0.753448849,0,,0,0,0.0625,,0,0,0
